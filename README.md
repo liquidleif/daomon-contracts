@@ -1,6 +1,6 @@
 # Todo List
 
-## Daomon721a
+## Daomon721a.sol
 
 - toggleLock
   - default locked at mint
@@ -9,3 +9,4 @@
   - at unlock: loosed 20% of staking time
 - override beforeTokenTransfer
   - token cannot be transfered if locked
+- mint method with access control
